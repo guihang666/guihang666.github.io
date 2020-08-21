@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 点滴记录
+subtitle: 好好学习 日积月累 永不停息 
 ---
 
 <div>
