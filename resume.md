@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于博主
-subtitle: IT的一名小学生
+subtitle: IT届的一名小学生
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
